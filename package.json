@@ -1,0 +1,13 @@
+{
+    "id": "simple_analytics",
+    "name": "Simple Analytics",
+    "version": "1.0",
+    "description": "Simple Analytics",
+    "main": "index.js",
+    "author": "Luca B. <dntftggl@pm.me>",
+    "license": "MIT",
+    "repository": "https://github.com/meetfranz/franz-receipe-simpleanalytics",
+    "config": {
+      "serviceURL": "https://simpleanalytics.com/"
+    }
+  }
